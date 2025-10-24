@@ -35,5 +35,10 @@ npx playwright install
   npx playwright show-report
   npx monocart show-report reports/monocart-report.html
   ```
+
+  - Test results screenshot:
+  ```bash
+  test-results/
+  ```
 ## CI
 GitHub Actions workflow is available at `.github/workflows/ci.yml`.
