@@ -11,6 +11,7 @@ It includes:
 
 ## Setup (npm)
 ```bash
+Install Node.js v18 or higher
 npm install
 npx playwright install
 ```
