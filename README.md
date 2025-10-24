@@ -7,7 +7,6 @@ It includes:
 - API tests demonstrating Booking CRUD operations
 - Test data management via JSON files
 - Monocart reporter and Playwright HTML report
-- GitHub Actions workflow for CI
 
 ## Setup (npm)
 ```bash
@@ -40,5 +39,3 @@ npx playwright install
   ```bash
   test-results/
   ```
-## CI
-GitHub Actions workflow is available at `.github/workflows/ci.yml`.
