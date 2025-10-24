@@ -1,9 +1,9 @@
 {
     "name": "Test Report",
-    "date": 1761286325806,
-    "dateH": "10/24/2025, 8:12:05 AM",
-    "duration": 12025,
-    "durationH": "12s",
+    "date": 1761287528150,
+    "dateH": "10/24/2025, 8:32:08 AM",
+    "duration": 24870,
+    "durationH": "24.9s",
     "cwd": "C:/Users/youst/Documents/playwright-test-framework",
     "outputFile": "reports/monocart-report.html",
     "outputDir": "reports",
@@ -26,66 +26,129 @@
         "release": "10.0.19045",
         "type": "Windows_NT",
         "version": "Windows 10 Pro",
-        "uptime": 53433.546,
+        "uptime": 54635.89,
         "hostname": "DESKTOP-7O6QE65",
-        "pid": 13152,
+        "pid": 12636,
         "node": "22.21.0",
         "v8": "12.4.254.21-node.33",
-        "timestampStart": 1761286325806,
+        "timestampStart": 1761287528150,
         "ticks": [
             {
                 "cpu": {
-                    "percent": 68.96
+                    "percent": 71.92
                 },
                 "mem": {
-                    "free": 8722808832
+                    "free": 8771801088
                 },
-                "timestamp": 1761286327832
+                "timestamp": 1761287530179
             },
             {
                 "cpu": {
-                    "percent": 74.7
+                    "percent": 68.2
                 },
                 "mem": {
-                    "free": 8730591232
+                    "free": 8743952384
                 },
-                "timestamp": 1761286329876
+                "timestamp": 1761287532213
             },
             {
                 "cpu": {
-                    "percent": 64.85
+                    "percent": 58.21
                 },
                 "mem": {
-                    "free": 8662573056
+                    "free": 8695508992
                 },
-                "timestamp": 1761286331905
+                "timestamp": 1761287534239
             },
             {
                 "cpu": {
-                    "percent": 26.59
+                    "percent": 23.84
                 },
                 "mem": {
-                    "free": 8638124032
+                    "free": 8653594624
                 },
-                "timestamp": 1761286333908
+                "timestamp": 1761287536243
             },
             {
                 "cpu": {
-                    "percent": 18.71
+                    "percent": 91.17
                 },
                 "mem": {
-                    "free": 8711725056
+                    "free": 8574763008
                 },
-                "timestamp": 1761286335922
+                "timestamp": 1761287538271
             },
             {
                 "cpu": {
-                    "percent": 3.79
+                    "percent": 44.95
                 },
                 "mem": {
-                    "free": 8815935488
+                    "free": 8623804416
                 },
-                "timestamp": 1761286337813
+                "timestamp": 1761287540277
+            },
+            {
+                "cpu": {
+                    "percent": 50.79
+                },
+                "mem": {
+                    "free": 8581779456
+                },
+                "timestamp": 1761287542297
+            },
+            {
+                "cpu": {
+                    "percent": 98.58
+                },
+                "mem": {
+                    "free": 8563372032
+                },
+                "timestamp": 1761287544402
+            },
+            {
+                "cpu": {
+                    "percent": 91.9
+                },
+                "mem": {
+                    "free": 8646909952
+                },
+                "timestamp": 1761287546411
+            },
+            {
+                "cpu": {
+                    "percent": 79.74
+                },
+                "mem": {
+                    "free": 8591724544
+                },
+                "timestamp": 1761287548423
+            },
+            {
+                "cpu": {
+                    "percent": 98.85
+                },
+                "mem": {
+                    "free": 8549101568
+                },
+                "timestamp": 1761287550439
+            },
+            {
+                "cpu": {
+                    "percent": 37.05
+                },
+                "mem": {
+                    "free": 8857669632
+                },
+                "timestamp": 1761287552469
+            },
+            {
+                "cpu": {
+                    "percent": 10.02
+                },
+                "mem": {
+                    "free": 8857948160
+                },
+                "timestamp": 1761287553006
             }
         ],
         "workers": 2,
@@ -94,92 +157,106 @@
                 "caseId": "80a6200128f04d23f344",
                 "parallelIndex": 0,
                 "workerIndex": 0,
-                "timestamp": 1761286331836,
-                "duration": 1694
+                "timestamp": 1761287534359,
+                "duration": 1478
             },
             {
                 "caseId": "773ea3da3cb27d49a476",
                 "parallelIndex": 0,
                 "workerIndex": 0,
-                "timestamp": 1761286333533,
+                "timestamp": 1761287535843,
                 "duration": 491
             },
             {
                 "caseId": "5c33dba8509346e651cc",
                 "parallelIndex": 0,
                 "workerIndex": 0,
-                "timestamp": 1761286334028,
-                "duration": 432
+                "timestamp": 1761287536340,
+                "duration": 475
             },
             {
                 "caseId": "d051fd695c7bfe5356ae",
                 "parallelIndex": 0,
                 "workerIndex": 0,
-                "timestamp": 1761286334461,
-                "duration": 468
+                "timestamp": 1761287536824,
+                "duration": 483
             },
             {
                 "caseId": "47f8e2b3757eba8eb3cb",
                 "parallelIndex": 1,
                 "workerIndex": 1,
-                "timestamp": 1761286331828,
-                "duration": 1684
+                "timestamp": 1761287534433,
+                "duration": 1415
             },
             {
                 "caseId": "4bfb8efb798e20e6abb4",
                 "parallelIndex": 1,
                 "workerIndex": 1,
-                "timestamp": 1761286333519,
-                "duration": 437
+                "timestamp": 1761287535854,
+                "duration": 447
             },
             {
                 "caseId": "b59001bc890e76d4e8c2",
                 "parallelIndex": 1,
                 "workerIndex": 1,
-                "timestamp": 1761286333960,
-                "duration": 468
+                "timestamp": 1761287536307,
+                "duration": 474
             },
             {
                 "caseId": "bd6cfa60ea5b80b69d69",
                 "parallelIndex": 1,
                 "workerIndex": 1,
-                "timestamp": 1761286334429,
-                "duration": 356
+                "timestamp": 1761287536786,
+                "duration": 483
             },
             {
                 "caseId": "6c03c21770a7715f8992",
                 "parallelIndex": 1,
                 "workerIndex": 1,
-                "timestamp": 1761286334912,
-                "duration": 397
+                "timestamp": 1761287537350,
+                "duration": 546
             },
             {
                 "caseId": "ff790376c63e77a6e759",
                 "parallelIndex": 1,
                 "workerIndex": 1,
-                "timestamp": 1761286335310,
-                "duration": 342
+                "timestamp": 1761287537901,
+                "duration": 812
             },
             {
                 "caseId": "c4dd7d2db8f621fe3d01",
                 "parallelIndex": 1,
                 "workerIndex": 1,
-                "timestamp": 1761286335654,
-                "duration": 318
+                "timestamp": 1761287538831,
+                "duration": 375
             },
             {
                 "caseId": "237f1e5ab3e955fd911d",
                 "parallelIndex": 1,
                 "workerIndex": 1,
-                "timestamp": 1761286335973,
-                "duration": 308
+                "timestamp": 1761287539211,
+                "duration": 358
             },
             {
                 "caseId": "9f886802c63c7fb53128",
                 "parallelIndex": 1,
                 "workerIndex": 1,
-                "timestamp": 1761286336293,
-                "duration": 320
+                "timestamp": 1761287539577,
+                "duration": 406
+            },
+            {
+                "caseId": "da9e8a92285d4cc560d4",
+                "parallelIndex": 0,
+                "workerIndex": 0,
+                "timestamp": 1761287537400,
+                "duration": 9601
+            },
+            {
+                "caseId": "85e6a0b9332fc8d6507b",
+                "parallelIndex": 0,
+                "workerIndex": 0,
+                "timestamp": 1761287547005,
+                "duration": 4587
             }
         ],
         "cwd": "C:/Users/youst/Documents/playwright-test-framework",
@@ -189,7 +266,7 @@
         "testDir": "tests",
         "outputFile": "reports/monocart-report.html",
         "outputDir": "reports",
-        "timestampEnd": 1761286337831
+        "timestampEnd": 1761287553020
     },
     "artifacts": [],
     "trends": [],
@@ -301,11 +378,11 @@
     ],
     "rows": [
         {
-            "id": "pel1xm9w7wperwij4bd5",
+            "id": "rxaxuvfqp5cn8ynejzch",
             "title": "chromium",
             "type": "suite",
             "suiteType": "project",
-            "caseNum": 13,
+            "caseNum": 15,
             "subs": [
                 {
                     "id": "427269f70a03218eb4b5",
@@ -324,10 +401,10 @@
                             "expectedStatus": "passed",
                             "location": "tests/api/auth.spec.js:6:5",
                             "timestamps": [
-                                1761286331836,
-                                1761286333530
+                                1761287534359,
+                                1761287535837
                             ],
-                            "duration": 1694,
+                            "duration": 1478,
                             "timeout": 30000,
                             "retry": 0,
                             "status": "passed",
@@ -336,27 +413,27 @@
                             "stepSubs": true,
                             "subs": [
                                 {
-                                    "id": "2fd6dirge4vc1wnt4md2",
+                                    "id": "1yul5ib36ciiluimy61q",
                                     "title": "Before Hooks",
                                     "type": "step",
                                     "stepType": "hook",
-                                    "duration": 219,
+                                    "duration": 258,
                                     "location": "",
                                     "subs": [
                                         {
-                                            "id": "w77q6a3n5ad6p2jt1k8x",
+                                            "id": "zihlkmzu38r5bqeuwprd",
                                             "title": "Fixture \"request\"",
                                             "type": "step",
                                             "stepType": "fixture",
-                                            "duration": 60,
+                                            "duration": 90,
                                             "location": "",
                                             "subs": [
                                                 {
-                                                    "id": "epgg2nz8rw1g69ozmfwk",
+                                                    "id": "luigscihkc7vj4jkuo6f",
                                                     "title": "Create request context",
                                                     "type": "step",
                                                     "stepType": "pw:api",
-                                                    "duration": 8,
+                                                    "duration": 18,
                                                     "location": ""
                                                 }
                                             ]
@@ -364,43 +441,43 @@
                                     ]
                                 },
                                 {
-                                    "id": "2fg2ultdezn14jfreazw",
+                                    "id": "jkmkger6r91ol8ckhtas",
                                     "title": "POST \"/auth\"",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 1355,
+                                    "duration": 1169,
                                     "location": "tests/api/auth.spec.js:7:29"
                                 },
                                 {
-                                    "id": "onungzx042brvctq0tdn",
+                                    "id": "z5wt9zpbafzrad941eu7",
                                     "title": "Expect \"toBeTruthy\"",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 2,
+                                    "duration": 1,
                                     "location": "tests/api/auth.spec.js:10:20"
                                 },
                                 {
-                                    "id": "3icm75z2v0e434dvtskb",
+                                    "id": "p8arieedvxbiolx4sc49",
                                     "title": "Expect \"toHaveProperty\"",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 6,
+                                    "duration": 1,
                                     "location": "tests/api/auth.spec.js:12:16"
                                 },
                                 {
-                                    "id": "d82rgo3krkfdbauh34ag",
+                                    "id": "12ljdfe8tt99we1d3ryw",
                                     "title": "After Hooks",
                                     "type": "step",
                                     "stepType": "hook",
-                                    "duration": 101,
+                                    "duration": 45,
                                     "location": "",
                                     "subs": [
                                         {
-                                            "id": "fwjgh1vcwvz31vf709rm",
+                                            "id": "iqqxvt9p15ehv1s1jf1v",
                                             "title": "Fixture \"request\"",
                                             "type": "step",
                                             "stepType": "fixture",
-                                            "duration": 24,
+                                            "duration": 8,
                                             "location": ""
                                         }
                                     ]
@@ -417,8 +494,8 @@
                             "expectedStatus": "passed",
                             "location": "tests/api/auth.spec.js:15:5",
                             "timestamps": [
-                                1761286333533,
-                                1761286334024
+                                1761287535843,
+                                1761287536334
                             ],
                             "duration": 491,
                             "timeout": 30000,
@@ -429,27 +506,27 @@
                             "stepSubs": true,
                             "subs": [
                                 {
-                                    "id": "494a5azn4j95p1du83qc",
+                                    "id": "hfb8rwjd31v87cdyvqk9",
                                     "title": "Before Hooks",
                                     "type": "step",
                                     "stepType": "hook",
-                                    "duration": 96,
+                                    "duration": 101,
                                     "location": "",
                                     "subs": [
                                         {
-                                            "id": "rjbqsvu0yuqubepm4060",
+                                            "id": "i2h2jy8v3jkrghmbpkod",
                                             "title": "Fixture \"request\"",
                                             "type": "step",
                                             "stepType": "fixture",
-                                            "duration": 5,
+                                            "duration": 16,
                                             "location": "",
                                             "subs": [
                                                 {
-                                                    "id": "g301qj2q9iw4mecdm6v8",
+                                                    "id": "cfohn8hgpd6zbzonla37",
                                                     "title": "Create request context",
                                                     "type": "step",
                                                     "stepType": "pw:api",
-                                                    "duration": 1,
+                                                    "duration": 6,
                                                     "location": ""
                                                 }
                                             ]
@@ -457,7 +534,7 @@
                                     ]
                                 },
                                 {
-                                    "id": "5878pecw09hy66to6tax",
+                                    "id": "izpirg6sot23hpyhdicm",
                                     "title": "POST \"/auth\"",
                                     "type": "step",
                                     "stepType": "pw:api",
@@ -465,15 +542,15 @@
                                     "location": "tests/api/auth.spec.js:16:29"
                                 },
                                 {
-                                    "id": "768p6h7wmqjuib7zb7i4",
+                                    "id": "fp0blly3m06g9k5yi6je",
                                     "title": "Expect \"toBe\"",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 0,
+                                    "duration": 1,
                                     "location": "tests/api/auth.spec.js:19:24"
                                 },
                                 {
-                                    "id": "m54cw5nevdg43wdjbdm0",
+                                    "id": "u4pi47mup0t7uhkupjv8",
                                     "title": "Expect \"not toHaveProperty\"",
                                     "type": "step",
                                     "stepType": "expect",
@@ -481,7 +558,7 @@
                                     "location": "tests/api/auth.spec.js:21:20"
                                 },
                                 {
-                                    "id": "e6wqb4ujezs5akd9aht0",
+                                    "id": "s8wz300vggv3knz5xpfs",
                                     "title": "Expect \"toHaveProperty\"",
                                     "type": "step",
                                     "stepType": "expect",
@@ -489,27 +566,27 @@
                                     "location": "tests/api/auth.spec.js:22:16"
                                 },
                                 {
-                                    "id": "yl1w3xulnyyqs665vvck",
+                                    "id": "h5yijcvqjzp4y7gmxr7p",
                                     "title": "Expect \"toBe\"",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 0,
+                                    "duration": 1,
                                     "location": "tests/api/auth.spec.js:23:23"
                                 },
                                 {
-                                    "id": "meifk3op5ykvz9omd5o9",
+                                    "id": "mc7j6ir97dqvyer8lg5t",
                                     "title": "After Hooks",
                                     "type": "step",
                                     "stepType": "hook",
-                                    "duration": 99,
+                                    "duration": 83,
                                     "location": "",
                                     "subs": [
                                         {
-                                            "id": "wo64yk76d16w5mw2cy5d",
+                                            "id": "davoct80wngg9vgx9dnv",
                                             "title": "Fixture \"request\"",
                                             "type": "step",
                                             "stepType": "fixture",
-                                            "duration": 21,
+                                            "duration": 18,
                                             "location": ""
                                         }
                                     ]
@@ -526,10 +603,10 @@
                             "expectedStatus": "passed",
                             "location": "tests/api/auth.spec.js:26:5",
                             "timestamps": [
-                                1761286334028,
-                                1761286334460
+                                1761287536340,
+                                1761287536815
                             ],
-                            "duration": 432,
+                            "duration": 475,
                             "timeout": 30000,
                             "retry": 0,
                             "status": "passed",
@@ -538,27 +615,27 @@
                             "stepSubs": true,
                             "subs": [
                                 {
-                                    "id": "rtilut0xjarv2qw36gmh",
+                                    "id": "jkghznvbxgmq1vthtrww",
                                     "title": "Before Hooks",
                                     "type": "step",
                                     "stepType": "hook",
-                                    "duration": 107,
+                                    "duration": 142,
                                     "location": "",
                                     "subs": [
                                         {
-                                            "id": "6liknl8cg2lmt1tkgqio",
+                                            "id": "gv3css0uq9crlkhxyegc",
                                             "title": "Fixture \"request\"",
                                             "type": "step",
                                             "stepType": "fixture",
-                                            "duration": 11,
+                                            "duration": 13,
                                             "location": "",
                                             "subs": [
                                                 {
-                                                    "id": "zhzw3g79kdujx9kibnzp",
+                                                    "id": "pn84orhozggqvvm31hgn",
                                                     "title": "Create request context",
                                                     "type": "step",
                                                     "stepType": "pw:api",
-                                                    "duration": 6,
+                                                    "duration": 1,
                                                     "location": ""
                                                 }
                                             ]
@@ -566,23 +643,23 @@
                                     ]
                                 },
                                 {
-                                    "id": "2e92maineehvj1bt3qmk",
+                                    "id": "efyi96mn1vm2ia6p837v",
                                     "title": "POST \"/auth\"",
                                     "type": "step",
                                     "stepType": "pw:api",
-                                    "duration": 259,
+                                    "duration": 257,
                                     "location": "tests/api/auth.spec.js:27:29"
                                 },
                                 {
-                                    "id": "4usz8863o0tcty6gbryg",
+                                    "id": "mhornncei8x5pypfauwv",
                                     "title": "Expect \"toBe\"",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 0,
+                                    "duration": 1,
                                     "location": "tests/api/auth.spec.js:30:24"
                                 },
                                 {
-                                    "id": "w54dilr3apgquk5tqdtr",
+                                    "id": "zgjhq7wpleofd6l15o75",
                                     "title": "Expect \"not toHaveProperty\"",
                                     "type": "step",
                                     "stepType": "expect",
@@ -590,7 +667,7 @@
                                     "location": "tests/api/auth.spec.js:32:20"
                                 },
                                 {
-                                    "id": "1q8okvuwxg27002hodoq",
+                                    "id": "k2m9ootu8ut0h2pmnslz",
                                     "title": "Expect \"toHaveProperty\"",
                                     "type": "step",
                                     "stepType": "expect",
@@ -598,7 +675,7 @@
                                     "location": "tests/api/auth.spec.js:33:16"
                                 },
                                 {
-                                    "id": "8gnimn3thfra9nz1iga8",
+                                    "id": "tfx0c6dupeelbf562jnp",
                                     "title": "Expect \"toBe\"",
                                     "type": "step",
                                     "stepType": "expect",
@@ -606,19 +683,19 @@
                                     "location": "tests/api/auth.spec.js:34:23"
                                 },
                                 {
-                                    "id": "c82dhksflebea4bujcik",
+                                    "id": "i2er0to0orqb7h8g6fqh",
                                     "title": "After Hooks",
                                     "type": "step",
                                     "stepType": "hook",
-                                    "duration": 36,
+                                    "duration": 63,
                                     "location": "",
                                     "subs": [
                                         {
-                                            "id": "ss3n2tcx8qh5euil2k2w",
+                                            "id": "gptyalwc8n5gbaj1baob",
                                             "title": "Fixture \"request\"",
                                             "type": "step",
                                             "stepType": "fixture",
-                                            "duration": 12,
+                                            "duration": 29,
                                             "location": ""
                                         }
                                     ]
@@ -635,10 +712,10 @@
                             "expectedStatus": "passed",
                             "location": "tests/api/auth.spec.js:37:5",
                             "timestamps": [
-                                1761286334461,
-                                1761286334929
+                                1761287536824,
+                                1761287537307
                             ],
-                            "duration": 468,
+                            "duration": 483,
                             "timeout": 30000,
                             "retry": 0,
                             "status": "passed",
@@ -647,27 +724,27 @@
                             "stepSubs": true,
                             "subs": [
                                 {
-                                    "id": "w31s2n5fr1igy5go2uxr",
+                                    "id": "b9t388pt48e8j4cazjgr",
                                     "title": "Before Hooks",
                                     "type": "step",
                                     "stepType": "hook",
-                                    "duration": 68,
+                                    "duration": 54,
                                     "location": "",
                                     "subs": [
                                         {
-                                            "id": "kokm3fp4531o7yhvala8",
+                                            "id": "ia2fq75ml8ybavpmag5a",
                                             "title": "Fixture \"request\"",
                                             "type": "step",
                                             "stepType": "fixture",
-                                            "duration": 10,
+                                            "duration": 4,
                                             "location": "",
                                             "subs": [
                                                 {
-                                                    "id": "qv171a13pcjijtzb0rxl",
+                                                    "id": "03ekau8u23tirm6dve5y",
                                                     "title": "Create request context",
                                                     "type": "step",
                                                     "stepType": "pw:api",
-                                                    "duration": 3,
+                                                    "duration": 1,
                                                     "location": ""
                                                 }
                                             ]
@@ -675,7 +752,7 @@
                                     ]
                                 },
                                 {
-                                    "id": "dyyxd8utxqb33p0euzh3",
+                                    "id": "popfpvc9qlltth2srirr",
                                     "title": "POST \"/auth\"",
                                     "type": "step",
                                     "stepType": "pw:api",
@@ -683,15 +760,15 @@
                                     "location": "tests/api/auth.spec.js:38:29"
                                 },
                                 {
-                                    "id": "afaqr9ux4b53b7jjmmqt",
+                                    "id": "wjvtu08l3h6i5x1b1z7y",
                                     "title": "Expect \"toBe\"",
                                     "type": "step",
                                     "stepType": "expect",
-                                    "duration": 1,
+                                    "duration": 0,
                                     "location": "tests/api/auth.spec.js:41:24"
                                 },
                                 {
-                                    "id": "jfa18jvvybmlhplcnzda",
+                                    "id": "kk0irlp8vooexvdyi6cm",
                                     "title": "Expect \"not toHaveProperty\"",
                                     "type": "step",
                                     "stepType": "expect",
@@ -699,7 +776,7 @@
                                     "location": "tests/api/auth.spec.js:43:20"
                                 },
                                 {
-                                    "id": "o0yamfuoor7m6eaewuog",
+                                    "id": "8j30z7wuecwasmdvh5ac",
                                     "title": "Expect \"toHaveProperty\"",
                                     "type": "step",
                                     "stepType": "expect",
@@ -707,7 +784,7 @@
                                     "location": "tests/api/auth.spec.js:44:16"
                                 },
                                 {
-                                    "id": "s4nf2t3k0dwdsyt1zf9v",
+                                    "id": "9kbsk8dfukbm43ds7u5x",
                                     "title": "Expect \"toBe\"",
                                     "type": "step",
                                     "stepType": "expect",
@@ -715,19 +792,19 @@
                                     "location": "tests/api/auth.spec.js:45:23"
                                 },
                                 {
-                                    "id": "t1l7nvn300ukc0hzbwqu",
+                                    "id": "4rsnolmdo5m9uigilqwq",
                                     "title": "After Hooks",
                                     "type": "step",
                                     "stepType": "hook",
-                                    "duration": 125,
+                                    "duration": 151,
                                     "location": "",
                                     "subs": [
                                         {
-                                            "id": "dccvsme9c52usgh98rxo",
+                                            "id": "59mg4aet6qk7ih8pico0",
                                             "title": "Fixture \"request\"",
                                             "type": "step",
                                             "stepType": "fixture",
-                                            "duration": 18,
+                                            "duration": 32,
                                             "location": ""
                                         }
                                     ]
@@ -761,10 +838,10 @@
                                     "expectedStatus": "passed",
                                     "location": "tests/api/booking-crud.spec.js:10:7",
                                     "timestamps": [
-                                        1761286331828,
-                                        1761286333512
+                                        1761287534433,
+                                        1761287535848
                                     ],
-                                    "duration": 1684,
+                                    "duration": 1415,
                                     "timeout": 30000,
                                     "retry": 0,
                                     "status": "passed",
@@ -773,27 +850,27 @@
                                     "stepSubs": true,
                                     "subs": [
                                         {
-                                            "id": "3ufkcbkodkijlit7rre3",
+                                            "id": "kyswnubqgotywqjfswfa",
                                             "title": "Before Hooks",
                                             "type": "step",
                                             "stepType": "hook",
-                                            "duration": 227,
+                                            "duration": 205,
                                             "location": "",
                                             "subs": [
                                                 {
-                                                    "id": "agw8efhg4pevef8vxakt",
+                                                    "id": "ff62xyvfl60k7ln6k3la",
                                                     "title": "Fixture \"request\"",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 76,
+                                                    "duration": 67,
                                                     "location": "",
                                                     "subs": [
                                                         {
-                                                            "id": "r91tue6poh26nlyzcdak",
+                                                            "id": "d0nx98p3tg1i7fvtb2eh",
                                                             "title": "Create request context",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 35,
+                                                            "duration": 8,
                                                             "location": ""
                                                         }
                                                     ]
@@ -801,23 +878,23 @@
                                             ]
                                         },
                                         {
-                                            "id": "niqemzv656nf919l76rl",
+                                            "id": "7tfnsnpv8arsj971w365",
                                             "title": "POST \"/booking\"",
                                             "type": "step",
                                             "stepType": "pw:api",
-                                            "duration": 1349,
+                                            "duration": 1103,
                                             "location": "tests/api/booking-crud.spec.js:11:31"
                                         },
                                         {
-                                            "id": "ga8y4ykbsei3p3bbhl2e",
+                                            "id": "8lkfx3apyyliapk7z6mw",
                                             "title": "Expect \"toBeTruthy\"",
                                             "type": "step",
                                             "stepType": "expect",
-                                            "duration": 3,
+                                            "duration": 1,
                                             "location": "tests/api/booking-crud.spec.js:12:22"
                                         },
                                         {
-                                            "id": "4wg86sgf2d2gmjdcjgtg",
+                                            "id": "l5vxwo24tnnoz4txwac6",
                                             "title": "Expect \"toBe\"",
                                             "type": "step",
                                             "stepType": "expect",
@@ -825,19 +902,19 @@
                                             "location": "tests/api/booking-crud.spec.js:15:36"
                                         },
                                         {
-                                            "id": "mxc1ky0hvjtkcbe19sz6",
+                                            "id": "9c7d3ptknk7mgvegvezn",
                                             "title": "After Hooks",
                                             "type": "step",
                                             "stepType": "hook",
-                                            "duration": 99,
+                                            "duration": 51,
                                             "location": "",
                                             "subs": [
                                                 {
-                                                    "id": "hfsksfqsegptdp8hqnxc",
+                                                    "id": "zhzchhxjbcu7oieoeauf",
                                                     "title": "Fixture \"request\"",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 16,
+                                                    "duration": 10,
                                                     "location": ""
                                                 }
                                             ]
@@ -854,10 +931,10 @@
                                     "expectedStatus": "passed",
                                     "location": "tests/api/booking-crud.spec.js:18:7",
                                     "timestamps": [
-                                        1761286333519,
-                                        1761286333956
+                                        1761287535854,
+                                        1761287536301
                                     ],
-                                    "duration": 437,
+                                    "duration": 447,
                                     "timeout": 30000,
                                     "retry": 0,
                                     "status": "passed",
@@ -866,27 +943,27 @@
                                     "stepSubs": true,
                                     "subs": [
                                         {
-                                            "id": "an5563g53vcpuffhaear",
+                                            "id": "9sahzp6g9mhuus0fy6p5",
                                             "title": "Before Hooks",
                                             "type": "step",
                                             "stepType": "hook",
-                                            "duration": 102,
+                                            "duration": 99,
                                             "location": "",
                                             "subs": [
                                                 {
-                                                    "id": "526vk5rx2kmezz6kxq79",
+                                                    "id": "dy805lsyud80nq8b7ea9",
                                                     "title": "Fixture \"request\"",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 18,
+                                                    "duration": 6,
                                                     "location": "",
                                                     "subs": [
                                                         {
-                                                            "id": "2ij1i2qmncd38p4ylc5i",
+                                                            "id": "xzb4i6nkdi0vf9j7n184",
                                                             "title": "Create request context",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 10,
+                                                            "duration": 1,
                                                             "location": ""
                                                         }
                                                     ]
@@ -894,23 +971,23 @@
                                             ]
                                         },
                                         {
-                                            "id": "rcgrqckbyc4h7nsrwjwd",
-                                            "title": "GET \"/booking/789\"",
+                                            "id": "k4od21vmiruw3fqrfe2m",
+                                            "title": "GET \"/booking/605\"",
                                             "type": "step",
                                             "stepType": "pw:api",
-                                            "duration": 253,
+                                            "duration": 261,
                                             "location": "tests/api/booking-crud.spec.js:19:31"
                                         },
                                         {
-                                            "id": "2n03ieso0ihasn2gbgtb",
+                                            "id": "bikler6l4frerw5s57dw",
                                             "title": "Expect \"toBe\"",
                                             "type": "step",
                                             "stepType": "expect",
-                                            "duration": 1,
+                                            "duration": 0,
                                             "location": "tests/api/booking-crud.spec.js:20:26"
                                         },
                                         {
-                                            "id": "11ac5y9iupvg9dmkr4w8",
+                                            "id": "nj7e416yttawgne34o30",
                                             "title": "Expect \"toBe\"",
                                             "type": "step",
                                             "stepType": "expect",
@@ -918,19 +995,19 @@
                                             "location": "tests/api/booking-crud.spec.js:22:28"
                                         },
                                         {
-                                            "id": "mp7xh4nnj5rhfk0aqmd4",
+                                            "id": "phieexztmind4bac323j",
                                             "title": "After Hooks",
                                             "type": "step",
                                             "stepType": "hook",
-                                            "duration": 60,
+                                            "duration": 61,
                                             "location": "",
                                             "subs": [
                                                 {
-                                                    "id": "gcfaezvkttopjdw1ogrb",
+                                                    "id": "7akoly6vgidhr7w7xcpb",
                                                     "title": "Fixture \"request\"",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 15,
+                                                    "duration": 12,
                                                     "location": ""
                                                 }
                                             ]
@@ -947,10 +1024,10 @@
                                     "expectedStatus": "passed",
                                     "location": "tests/api/booking-crud.spec.js:25:7",
                                     "timestamps": [
-                                        1761286333960,
-                                        1761286334428
+                                        1761287536307,
+                                        1761287536781
                                     ],
-                                    "duration": 468,
+                                    "duration": 474,
                                     "timeout": 30000,
                                     "retry": 0,
                                     "status": "passed",
@@ -959,27 +1036,27 @@
                                     "stepSubs": true,
                                     "subs": [
                                         {
-                                            "id": "cfgjd4qu189yt85bgopb",
+                                            "id": "ogsiyjhsimeikkoy7wes",
                                             "title": "Before Hooks",
                                             "type": "step",
                                             "stepType": "hook",
-                                            "duration": 136,
+                                            "duration": 140,
                                             "location": "",
                                             "subs": [
                                                 {
-                                                    "id": "cx2h3byg918k4a4npnnz",
+                                                    "id": "714jjyostme15v85vz31",
                                                     "title": "Fixture \"request\"",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 33,
+                                                    "duration": 21,
                                                     "location": "",
                                                     "subs": [
                                                         {
-                                                            "id": "7xrxdq99nxqrp6j78sss",
+                                                            "id": "tn5u1xkr8zd7if31us0x",
                                                             "title": "Create request context",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 21,
+                                                            "duration": 7,
                                                             "location": ""
                                                         }
                                                     ]
@@ -987,23 +1064,23 @@
                                             ]
                                         },
                                         {
-                                            "id": "o8irws1af1zo28oa0cax",
-                                            "title": "PUT \"/booking/789\"",
+                                            "id": "xgtdwq8a266qc96ligab",
+                                            "title": "PUT \"/booking/605\"",
                                             "type": "step",
                                             "stepType": "pw:api",
-                                            "duration": 262,
+                                            "duration": 256,
                                             "location": "tests/api/booking-crud.spec.js:27:31"
                                         },
                                         {
-                                            "id": "a6qqy40i7j6a2dn1rget",
+                                            "id": "eh5d9bg3pawkklmattdt",
                                             "title": "Expect \"toBe\"",
                                             "type": "step",
                                             "stepType": "expect",
-                                            "duration": 1,
+                                            "duration": 0,
                                             "location": "tests/api/booking-crud.spec.js:35:26"
                                         },
                                         {
-                                            "id": "8ye5omu9qyv7ahx631w6",
+                                            "id": "22wtenlhdp7hpualtww7",
                                             "title": "Expect \"toBe\"",
                                             "type": "step",
                                             "stepType": "expect",
@@ -1011,19 +1088,19 @@
                                             "location": "tests/api/booking-crud.spec.js:37:28"
                                         },
                                         {
-                                            "id": "k1s9l9yrfhykmmrapgia",
+                                            "id": "wvk2rr9bzgn5egtoj6e1",
                                             "title": "After Hooks",
                                             "type": "step",
                                             "stepType": "hook",
-                                            "duration": 47,
+                                            "duration": 64,
                                             "location": "",
                                             "subs": [
                                                 {
-                                                    "id": "gydh85v13dtya3msin60",
+                                                    "id": "vhq5hde2fps596ml9gto",
                                                     "title": "Fixture \"request\"",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 27,
+                                                    "duration": 26,
                                                     "location": ""
                                                 }
                                             ]
@@ -1040,10 +1117,10 @@
                                     "expectedStatus": "passed",
                                     "location": "tests/api/booking-crud.spec.js:40:7",
                                     "timestamps": [
-                                        1761286334429,
-                                        1761286334785
+                                        1761287536786,
+                                        1761287537269
                                     ],
-                                    "duration": 356,
+                                    "duration": 483,
                                     "timeout": 30000,
                                     "retry": 0,
                                     "status": "passed",
@@ -1052,27 +1129,27 @@
                                     "stepSubs": true,
                                     "subs": [
                                         {
-                                            "id": "zl3ioxwresyzrmskjaq1",
+                                            "id": "vgpsgw26jveu5w58aypt",
                                             "title": "Before Hooks",
                                             "type": "step",
                                             "stepType": "hook",
-                                            "duration": 36,
+                                            "duration": 64,
                                             "location": "",
                                             "subs": [
                                                 {
-                                                    "id": "5fjlmo4p9aubqosi2f3v",
+                                                    "id": "5jxkjsqvitypk3i3aj76",
                                                     "title": "Fixture \"request\"",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 9,
+                                                    "duration": 12,
                                                     "location": "",
                                                     "subs": [
                                                         {
-                                                            "id": "uw444jx5z7idqpcfk2cp",
+                                                            "id": "9rvtu7tepuidx8wozt50",
                                                             "title": "Create request context",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 1,
+                                                            "duration": 4,
                                                             "location": ""
                                                         }
                                                     ]
@@ -1080,43 +1157,43 @@
                                             ]
                                         },
                                         {
-                                            "id": "wqysf5pk83wb2w50qgle",
-                                            "title": "PATCH \"/booking/789\"",
+                                            "id": "prlftiwswc6olmf6mq1p",
+                                            "title": "PATCH \"/booking/605\"",
                                             "type": "step",
                                             "stepType": "pw:api",
                                             "duration": 262,
                                             "location": "tests/api/booking-crud.spec.js:42:31"
                                         },
                                         {
-                                            "id": "fu7onfqgasz3fp6gvtbv",
-                                            "title": "Expect \"toBe\"",
-                                            "type": "step",
-                                            "stepType": "expect",
-                                            "duration": 1,
-                                            "location": "tests/api/booking-crud.spec.js:49:26"
-                                        },
-                                        {
-                                            "id": "n9bqvwvzm3g0eydr0lxj",
+                                            "id": "sn87s0jjo67w14yax9lw",
                                             "title": "Expect \"toBe\"",
                                             "type": "step",
                                             "stepType": "expect",
                                             "duration": 0,
+                                            "location": "tests/api/booking-crud.spec.js:49:26"
+                                        },
+                                        {
+                                            "id": "m3ej8hwggm4iewpse1c3",
+                                            "title": "Expect \"toBe\"",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 1,
                                             "location": "tests/api/booking-crud.spec.js:51:28"
                                         },
                                         {
-                                            "id": "om0rls5kkt73ffy79r62",
+                                            "id": "hfoldkdal19rtw3sv22n",
                                             "title": "After Hooks",
                                             "type": "step",
                                             "stepType": "hook",
-                                            "duration": 36,
+                                            "duration": 110,
                                             "location": "",
                                             "subs": [
                                                 {
-                                                    "id": "q8fmjy53nylqzxkdvaie",
+                                                    "id": "z7rp1p93y2uz8zs7vr9e",
                                                     "title": "Fixture \"request\"",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 6,
+                                                    "duration": 7,
                                                     "location": ""
                                                 }
                                             ]
@@ -1153,10 +1230,10 @@
                                     "expectedStatus": "passed",
                                     "location": "tests/api/booking-delete.spec.js:11:7",
                                     "timestamps": [
-                                        1761286334912,
-                                        1761286335309
+                                        1761287537350,
+                                        1761287537896
                                     ],
-                                    "duration": 397,
+                                    "duration": 546,
                                     "timeout": 30000,
                                     "retry": 0,
                                     "status": "passed",
@@ -1165,27 +1242,27 @@
                                     "stepSubs": true,
                                     "subs": [
                                         {
-                                            "id": "gpf71o18ewvbpzeppt72",
+                                            "id": "9bkoh0ozn1ybfzmo6tqc",
                                             "title": "Before Hooks",
                                             "type": "step",
                                             "stepType": "hook",
-                                            "duration": 99,
+                                            "duration": 95,
                                             "location": "",
                                             "subs": [
                                                 {
-                                                    "id": "rqnkt2fy0godl4wnpz0m",
+                                                    "id": "dppclnn8de0bzgkchji8",
                                                     "title": "Fixture \"request\"",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 10,
+                                                    "duration": 6,
                                                     "location": "",
                                                     "subs": [
                                                         {
-                                                            "id": "ijqn1dufe1q3addaqs2a",
+                                                            "id": "l9oipcper6zuj0em5ebc",
                                                             "title": "Create request context",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 5,
+                                                            "duration": 1,
                                                             "location": ""
                                                         }
                                                     ]
@@ -1193,43 +1270,43 @@
                                             ]
                                         },
                                         {
-                                            "id": "j5o9iyk6ie9d0iafzos8",
+                                            "id": "qr7h6r987cw044wrs31l",
                                             "title": "POST \"/booking\"",
                                             "type": "step",
                                             "stepType": "pw:api",
-                                            "duration": 260,
+                                            "duration": 259,
                                             "location": "tests/api/booking-delete.spec.js:12:31"
                                         },
                                         {
-                                            "id": "mwsuxtj9yasu2o9h1msx",
+                                            "id": "duqccs2hj3e2aklhb64w",
                                             "title": "Expect \"toBeTruthy\"",
                                             "type": "step",
                                             "stepType": "expect",
-                                            "duration": 1,
+                                            "duration": 0,
                                             "location": "tests/api/booking-delete.spec.js:13:22"
                                         },
                                         {
-                                            "id": "e71id1qu2j91qukkebkr",
+                                            "id": "bsm6ccgdzhx10ainxhta",
                                             "title": "Expect \"toBe\"",
                                             "type": "step",
                                             "stepType": "expect",
-                                            "duration": 0,
+                                            "duration": 1,
                                             "location": "tests/api/booking-delete.spec.js:16:36"
                                         },
                                         {
-                                            "id": "z3eyppmipdj8le2gwup9",
+                                            "id": "xekvqhvc6odckxwbasaa",
                                             "title": "After Hooks",
                                             "type": "step",
                                             "stepType": "hook",
-                                            "duration": 22,
+                                            "duration": 159,
                                             "location": "",
                                             "subs": [
                                                 {
-                                                    "id": "kn2wxqzi8lv955fpun7z",
+                                                    "id": "ewag3l2s8yywdmk6myng",
                                                     "title": "Fixture \"request\"",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 6,
+                                                    "duration": 14,
                                                     "location": ""
                                                 }
                                             ]
@@ -1246,10 +1323,10 @@
                                     "expectedStatus": "passed",
                                     "location": "tests/api/booking-delete.spec.js:19:7",
                                     "timestamps": [
-                                        1761286335310,
-                                        1761286335652
+                                        1761287537901,
+                                        1761287538713
                                     ],
-                                    "duration": 342,
+                                    "duration": 812,
                                     "timeout": 30000,
                                     "retry": 0,
                                     "status": "passed",
@@ -1258,23 +1335,23 @@
                                     "stepSubs": true,
                                     "subs": [
                                         {
-                                            "id": "yeezzk54d1are2ar38zw",
+                                            "id": "n7mrox63ajtrjzh7oszl",
                                             "title": "Before Hooks",
                                             "type": "step",
                                             "stepType": "hook",
-                                            "duration": 48,
+                                            "duration": 277,
                                             "location": "",
                                             "subs": [
                                                 {
-                                                    "id": "u7wtwaheo4ltbjh9hxtr",
+                                                    "id": "meyqgkbe0ujnugszhtqk",
                                                     "title": "Fixture \"request\"",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 9,
+                                                    "duration": 16,
                                                     "location": "",
                                                     "subs": [
                                                         {
-                                                            "id": "osafulfygafjgeqav2nl",
+                                                            "id": "bj5htnyph5d1vneh1tea",
                                                             "title": "Create request context",
                                                             "type": "step",
                                                             "stepType": "pw:api",
@@ -1286,15 +1363,15 @@
                                             ]
                                         },
                                         {
-                                            "id": "8z99s0bk4vzuhj6ywgzz",
+                                            "id": "d1imrscez1i8ugnfv868",
                                             "title": "POST \"/auth\"",
                                             "type": "step",
                                             "stepType": "pw:api",
-                                            "duration": 253,
+                                            "duration": 265,
                                             "location": "tests/api/booking-delete.spec.js:20:31"
                                         },
                                         {
-                                            "id": "62eh6xyhdctd241uivxe",
+                                            "id": "nd4bo0gqqfdbxu44m28u",
                                             "title": "Expect \"toBeTruthy\"",
                                             "type": "step",
                                             "stepType": "expect",
@@ -1302,27 +1379,27 @@
                                             "location": "tests/api/booking-delete.spec.js:23:22"
                                         },
                                         {
-                                            "id": "wafnr935c6ep5w7qicf4",
+                                            "id": "dbgtupbg2kwv3izpznn3",
                                             "title": "Expect \"toBeTruthy\"",
                                             "type": "step",
                                             "stepType": "expect",
-                                            "duration": 1,
+                                            "duration": 0,
                                             "location": "tests/api/booking-delete.spec.js:26:19"
                                         },
                                         {
-                                            "id": "wtq23ptvsw67bx359xfl",
+                                            "id": "yhzidmkqscx4l4jmgqxf",
                                             "title": "After Hooks",
                                             "type": "step",
                                             "stepType": "hook",
-                                            "duration": 23,
+                                            "duration": 140,
                                             "location": "",
                                             "subs": [
                                                 {
-                                                    "id": "wk5rxqdq3l6usf5a6wvi",
+                                                    "id": "b4nicow0hnlzfyyz6nzy",
                                                     "title": "Fixture \"request\"",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 4,
+                                                    "duration": 13,
                                                     "location": ""
                                                 }
                                             ]
@@ -1339,10 +1416,10 @@
                                     "expectedStatus": "passed",
                                     "location": "tests/api/booking-delete.spec.js:29:7",
                                     "timestamps": [
-                                        1761286335654,
-                                        1761286335972
+                                        1761287538831,
+                                        1761287539206
                                     ],
-                                    "duration": 318,
+                                    "duration": 375,
                                     "timeout": 30000,
                                     "retry": 0,
                                     "status": "passed",
@@ -1351,23 +1428,23 @@
                                     "stepSubs": true,
                                     "subs": [
                                         {
-                                            "id": "qke853cd8bl5fb1j50z6",
+                                            "id": "aluqefh1ttn34h2eufme",
                                             "title": "Before Hooks",
                                             "type": "step",
                                             "stepType": "hook",
-                                            "duration": 18,
+                                            "duration": 208,
                                             "location": "",
                                             "subs": [
                                                 {
-                                                    "id": "2hd83dtwh2t2fs8drsp3",
+                                                    "id": "um4yyvrcbi34idab78gk",
                                                     "title": "Fixture \"request\"",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 3,
+                                                    "duration": 13,
                                                     "location": "",
                                                     "subs": [
                                                         {
-                                                            "id": "z6xfz3wyfxp79vrknk5v",
+                                                            "id": "7494fe78imdzqlwmxi9w",
                                                             "title": "Create request context",
                                                             "type": "step",
                                                             "stepType": "pw:api",
@@ -1379,35 +1456,35 @@
                                             ]
                                         },
                                         {
-                                            "id": "yl7joinbyzm9jc7on5y8",
-                                            "title": "DELETE \"/booking/813\"",
+                                            "id": "3b5s1v38cwllu4vyebak",
+                                            "title": "DELETE \"/booking/619\"",
                                             "type": "step",
                                             "stepType": "pw:api",
-                                            "duration": 251,
+                                            "duration": 254,
                                             "location": "tests/api/booking-delete.spec.js:31:37"
                                         },
                                         {
-                                            "id": "6hp1njq1iif6xfdcpbn4",
+                                            "id": "bi83hlpasxfnilopxg2x",
                                             "title": "Expect \"toContain\"",
                                             "type": "step",
                                             "stepType": "expect",
-                                            "duration": 1,
+                                            "duration": 0,
                                             "location": "tests/api/booking-delete.spec.js:36:24"
                                         },
                                         {
-                                            "id": "cr2fvcuf2bhjgw1tswcv",
+                                            "id": "sl99bys9r9dqvr9tn3ja",
                                             "title": "After Hooks",
                                             "type": "step",
                                             "stepType": "hook",
-                                            "duration": 42,
+                                            "duration": 49,
                                             "location": "",
                                             "subs": [
                                                 {
-                                                    "id": "191gkj8z9opgidkfqjbw",
+                                                    "id": "igz3d21wys481z8aqju5",
                                                     "title": "Fixture \"request\"",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 15,
+                                                    "duration": 14,
                                                     "location": ""
                                                 }
                                             ]
@@ -1424,10 +1501,10 @@
                                     "expectedStatus": "passed",
                                     "location": "tests/api/booking-delete.spec.js:39:7",
                                     "timestamps": [
-                                        1761286335973,
-                                        1761286336281
+                                        1761287539211,
+                                        1761287539569
                                     ],
-                                    "duration": 308,
+                                    "duration": 358,
                                     "timeout": 30000,
                                     "retry": 0,
                                     "status": "passed",
@@ -1436,15 +1513,15 @@
                                     "stepSubs": true,
                                     "subs": [
                                         {
-                                            "id": "lb3lw9d4b4cy5pusrtgv",
+                                            "id": "9zx687ulkfamexsrqor0",
                                             "title": "Before Hooks",
                                             "type": "step",
                                             "stepType": "hook",
-                                            "duration": 14,
+                                            "duration": 32,
                                             "location": "",
                                             "subs": [
                                                 {
-                                                    "id": "32z3qzmi2shq8f839vvy",
+                                                    "id": "hoo3v6mz8oayuymxfat8",
                                                     "title": "Fixture \"request\"",
                                                     "type": "step",
                                                     "stepType": "fixture",
@@ -1452,11 +1529,11 @@
                                                     "location": "",
                                                     "subs": [
                                                         {
-                                                            "id": "mt8bjxaueb3gba6ivz7g",
+                                                            "id": "ufqnkxg43pdlplut9grz",
                                                             "title": "Create request context",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 1,
+                                                            "duration": 0,
                                                             "location": ""
                                                         }
                                                     ]
@@ -1464,15 +1541,15 @@
                                             ]
                                         },
                                         {
-                                            "id": "a46bb34dr2uwxtywa7qr",
+                                            "id": "mokn76wr91hb6ff0o7zk",
                                             "title": "POST \"/booking\"",
                                             "type": "step",
                                             "stepType": "pw:api",
-                                            "duration": 250,
+                                            "duration": 260,
                                             "location": "tests/api/booking-delete.spec.js:40:31"
                                         },
                                         {
-                                            "id": "0ahpyntnbzm0i7lwzmnx",
+                                            "id": "bnaeimeo67ksuw2vexl8",
                                             "title": "Expect \"toBeTruthy\"",
                                             "type": "step",
                                             "stepType": "expect",
@@ -1480,19 +1557,19 @@
                                             "location": "tests/api/booking-delete.spec.js:41:22"
                                         },
                                         {
-                                            "id": "n6zg1tm0ow2bx5mt1cya",
+                                            "id": "ohsv4alvn7caid6v8o2z",
                                             "title": "After Hooks",
                                             "type": "step",
                                             "stepType": "hook",
-                                            "duration": 33,
+                                            "duration": 36,
                                             "location": "",
                                             "subs": [
                                                 {
-                                                    "id": "t28cwlttv3y21vpieeej",
+                                                    "id": "c00e3j9xaozvnptuocaa",
                                                     "title": "Fixture \"request\"",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 5,
+                                                    "duration": 7,
                                                     "location": ""
                                                 }
                                             ]
@@ -1509,10 +1586,10 @@
                                     "expectedStatus": "passed",
                                     "location": "tests/api/booking-delete.spec.js:46:7",
                                     "timestamps": [
-                                        1761286336293,
-                                        1761286336613
+                                        1761287539577,
+                                        1761287539983
                                     ],
-                                    "duration": 320,
+                                    "duration": 406,
                                     "timeout": 30000,
                                     "retry": 0,
                                     "status": "passed",
@@ -1521,27 +1598,27 @@
                                     "stepSubs": true,
                                     "subs": [
                                         {
-                                            "id": "z2t9gjgodmxgggfdeaqn",
+                                            "id": "kdx7gtcemog00pwvy8lc",
                                             "title": "Before Hooks",
                                             "type": "step",
                                             "stepType": "hook",
-                                            "duration": 36,
+                                            "duration": 78,
                                             "location": "",
                                             "subs": [
                                                 {
-                                                    "id": "robtosprd9crrk49t1vd",
+                                                    "id": "foyemrts0ozm8lindyje",
                                                     "title": "Fixture \"request\"",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 5,
+                                                    "duration": 17,
                                                     "location": "",
                                                     "subs": [
                                                         {
-                                                            "id": "mrhejjj8r69dvgj2go3o",
+                                                            "id": "lxm5mujgxauaxgyqpjop",
                                                             "title": "Create request context",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 3,
+                                                            "duration": 8,
                                                             "location": ""
                                                         }
                                                     ]
@@ -1549,35 +1626,35 @@
                                             ]
                                         },
                                         {
-                                            "id": "vftc3q4m3mm2zofn0q68",
-                                            "title": "DELETE \"/booking/822\"",
+                                            "id": "otrxyzhjv4eg4utlejyp",
+                                            "title": "DELETE \"/booking/637\"",
                                             "type": "step",
                                             "stepType": "pw:api",
-                                            "duration": 256,
+                                            "duration": 265,
                                             "location": "tests/api/booking-delete.spec.js:48:37"
                                         },
                                         {
-                                            "id": "awxc7wu6nxerv4m8yu7t",
+                                            "id": "wxsfnz09rfrp1kz2r7sy",
                                             "title": "Expect \"toContain\"",
                                             "type": "step",
                                             "stepType": "expect",
-                                            "duration": 0,
+                                            "duration": 1,
                                             "location": "tests/api/booking-delete.spec.js:53:24"
                                         },
                                         {
-                                            "id": "1gn6vyl30q0336yti0iv",
+                                            "id": "rxbv97qeokit9e04izna",
                                             "title": "After Hooks",
                                             "type": "step",
                                             "stepType": "hook",
-                                            "duration": 30,
+                                            "duration": 61,
                                             "location": "",
                                             "subs": [
                                                 {
-                                                    "id": "vxj118xspdw73n1qo001",
+                                                    "id": "38knc59ktwru53smm4iv",
                                                     "title": "Fixture \"request\"",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 6,
+                                                    "duration": 12,
                                                     "location": ""
                                                 }
                                             ]
@@ -1589,6 +1666,394 @@
                         }
                     ],
                     "location": "tests/api/booking-delete.spec.js:0:0"
+                },
+                {
+                    "id": "fedf6523912390004e76",
+                    "title": "ui/cart.spec.js",
+                    "type": "suite",
+                    "suiteType": "file",
+                    "caseNum": 2,
+                    "subs": [
+                        {
+                            "id": "fedf6523912390004e76",
+                            "title": "Shopping Cart",
+                            "type": "suite",
+                            "suiteType": "describe",
+                            "caseNum": 2,
+                            "subs": [
+                                {
+                                    "id": "da9e8a92285d4cc560d4",
+                                    "title": "Test UI add an item to cart",
+                                    "type": "case",
+                                    "caseType": "passed",
+                                    "ok": true,
+                                    "outcome": "expected",
+                                    "expectedStatus": "passed",
+                                    "location": "tests/ui/cart.spec.js:13:7",
+                                    "timestamps": [
+                                        1761287537400,
+                                        1761287547001
+                                    ],
+                                    "duration": 9601,
+                                    "timeout": 30000,
+                                    "retry": 0,
+                                    "status": "passed",
+                                    "stepNum": 19,
+                                    "stepFailed": 0,
+                                    "stepSubs": true,
+                                    "subs": [
+                                        {
+                                            "id": "ekk2g4098n2rmj0dtvfo",
+                                            "title": "Before Hooks",
+                                            "type": "step",
+                                            "stepType": "hook",
+                                            "duration": 7183,
+                                            "location": "",
+                                            "subs": [
+                                                {
+                                                    "id": "wdnoxp5t350gcfjpwsqt",
+                                                    "title": "beforeEach hook",
+                                                    "type": "step",
+                                                    "stepType": "hook",
+                                                    "duration": 7179,
+                                                    "location": "tests/ui/cart.spec.js:6:8",
+                                                    "subs": [
+                                                        {
+                                                            "id": "xt1af5g7qd97timd7inr",
+                                                            "title": "Fixture \"browser\"",
+                                                            "type": "step",
+                                                            "stepType": "fixture",
+                                                            "duration": 445,
+                                                            "location": "",
+                                                            "subs": [
+                                                                {
+                                                                    "id": "0cf7m2717fiqo8rws6kb",
+                                                                    "title": "Launch browser",
+                                                                    "type": "step",
+                                                                    "stepType": "pw:api",
+                                                                    "duration": 422,
+                                                                    "location": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "id": "86ohit1f9i2tp0qtr47x",
+                                                            "title": "Fixture \"context\"",
+                                                            "type": "step",
+                                                            "stepType": "fixture",
+                                                            "duration": 102,
+                                                            "location": "",
+                                                            "subs": [
+                                                                {
+                                                                    "id": "z53fhrgqgdmb6qh7chrw",
+                                                                    "title": "Create context",
+                                                                    "type": "step",
+                                                                    "stepType": "pw:api",
+                                                                    "duration": 81,
+                                                                    "location": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "id": "nlhep9k6regqtvg5m70l",
+                                                            "title": "Fixture \"page\"",
+                                                            "type": "step",
+                                                            "stepType": "fixture",
+                                                            "duration": 759,
+                                                            "location": "",
+                                                            "subs": [
+                                                                {
+                                                                    "id": "8pnacsfyogsrmehg49lw",
+                                                                    "title": "Create page",
+                                                                    "type": "step",
+                                                                    "stepType": "pw:api",
+                                                                    "duration": 738,
+                                                                    "location": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "id": "4ib7i2dltcjm6ds8a1v4",
+                                                            "title": "Navigate to \"/\"",
+                                                            "type": "step",
+                                                            "stepType": "pw:api",
+                                                            "duration": 4260,
+                                                            "location": "tests/ui/cart.spec.js:7:16"
+                                                        },
+                                                        {
+                                                            "id": "6kvg0vxd5wpa64n3dflj",
+                                                            "title": "Fill \"standard_user\" locator('#user-name')",
+                                                            "type": "step",
+                                                            "stepType": "pw:api",
+                                                            "duration": 407,
+                                                            "location": "tests/ui/cart.spec.js:8:16"
+                                                        },
+                                                        {
+                                                            "id": "jngi9wmmmrt1dbqn0hii",
+                                                            "title": "Fill \"secret_sauce\" locator('#password')",
+                                                            "type": "step",
+                                                            "stepType": "pw:api",
+                                                            "duration": 145,
+                                                            "location": "tests/ui/cart.spec.js:9:16"
+                                                        },
+                                                        {
+                                                            "id": "05273xgvd6vxbonsgt0h",
+                                                            "title": "Click locator('#login-button')",
+                                                            "type": "step",
+                                                            "stepType": "pw:api",
+                                                            "duration": 866,
+                                                            "location": "tests/ui/cart.spec.js:10:16"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "ksiqkcmtghua87qjl6nu",
+                                            "title": "Click locator('button[data-test=\"add-to-cart-sauce-labs-backpack\"]')",
+                                            "type": "step",
+                                            "stepType": "pw:api",
+                                            "duration": 206,
+                                            "location": "tests/ui/cart.spec.js:14:16"
+                                        },
+                                        {
+                                            "id": "fgjqhkpgeofez38xwos4",
+                                            "title": "Click locator('.shopping_cart_link')",
+                                            "type": "step",
+                                            "stepType": "pw:api",
+                                            "duration": 271,
+                                            "location": "tests/ui/cart.spec.js:15:16"
+                                        },
+                                        {
+                                            "id": "sjoxgx4q1pgwm4ycv8m8",
+                                            "title": "Expect \"toHaveCount\"",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 53,
+                                            "location": "tests/ui/cart.spec.js:16:46"
+                                        },
+                                        {
+                                            "id": "o218i0ms9qw6llo6e012",
+                                            "title": "After Hooks",
+                                            "type": "step",
+                                            "stepType": "hook",
+                                            "duration": 1845,
+                                            "location": "",
+                                            "subs": [
+                                                {
+                                                    "id": "vvtn5rpv2j1bbsiv5h34",
+                                                    "title": "Fixture \"page\"",
+                                                    "type": "step",
+                                                    "stepType": "fixture",
+                                                    "duration": 1,
+                                                    "location": ""
+                                                },
+                                                {
+                                                    "id": "4xv6tvy9tkvuj6vsqj66",
+                                                    "title": "Fixture \"context\"",
+                                                    "type": "step",
+                                                    "stepType": "fixture",
+                                                    "duration": 1771,
+                                                    "location": "",
+                                                    "subs": [
+                                                        {
+                                                            "id": "pjm91t3b2th0zliegj29",
+                                                            "title": "Close context",
+                                                            "type": "step",
+                                                            "stepType": "pw:api",
+                                                            "duration": 1233,
+                                                            "location": ""
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "85e6a0b9332fc8d6507b",
+                                    "title": "Test UI remove item from cart",
+                                    "type": "case",
+                                    "caseType": "passed",
+                                    "ok": true,
+                                    "outcome": "expected",
+                                    "expectedStatus": "passed",
+                                    "location": "tests/ui/cart.spec.js:19:7",
+                                    "timestamps": [
+                                        1761287547005,
+                                        1761287551592
+                                    ],
+                                    "duration": 4587,
+                                    "timeout": 30000,
+                                    "retry": 0,
+                                    "status": "passed",
+                                    "stepNum": 18,
+                                    "stepFailed": 0,
+                                    "stepSubs": true,
+                                    "subs": [
+                                        {
+                                            "id": "gycmrjpscsu0zmgs6jcv",
+                                            "title": "Before Hooks",
+                                            "type": "step",
+                                            "stepType": "hook",
+                                            "duration": 3192,
+                                            "location": "",
+                                            "subs": [
+                                                {
+                                                    "id": "qtqheq16vg8e165x0nzm",
+                                                    "title": "beforeEach hook",
+                                                    "type": "step",
+                                                    "stepType": "hook",
+                                                    "duration": 3185,
+                                                    "location": "tests/ui/cart.spec.js:6:8",
+                                                    "subs": [
+                                                        {
+                                                            "id": "qyb80701fhrjpwrw993p",
+                                                            "title": "Fixture \"context\"",
+                                                            "type": "step",
+                                                            "stepType": "fixture",
+                                                            "duration": 55,
+                                                            "location": "",
+                                                            "subs": [
+                                                                {
+                                                                    "id": "m0vkj20qz41uu0ft2vsx",
+                                                                    "title": "Create context",
+                                                                    "type": "step",
+                                                                    "stepType": "pw:api",
+                                                                    "duration": 17,
+                                                                    "location": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "id": "xte30olptlc3kan56az7",
+                                                            "title": "Fixture \"page\"",
+                                                            "type": "step",
+                                                            "stepType": "fixture",
+                                                            "duration": 339,
+                                                            "location": "",
+                                                            "subs": [
+                                                                {
+                                                                    "id": "t8cywgqjok7m0kt5114o",
+                                                                    "title": "Create page",
+                                                                    "type": "step",
+                                                                    "stepType": "pw:api",
+                                                                    "duration": 326,
+                                                                    "location": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "id": "0j7o0nfgbeztf63qq9an",
+                                                            "title": "Navigate to \"/\"",
+                                                            "type": "step",
+                                                            "stepType": "pw:api",
+                                                            "duration": 1543,
+                                                            "location": "tests/ui/cart.spec.js:7:16"
+                                                        },
+                                                        {
+                                                            "id": "vrqghhru4385sqxcoll0",
+                                                            "title": "Fill \"standard_user\" locator('#user-name')",
+                                                            "type": "step",
+                                                            "stepType": "pw:api",
+                                                            "duration": 314,
+                                                            "location": "tests/ui/cart.spec.js:8:16"
+                                                        },
+                                                        {
+                                                            "id": "0xf57apdlg41yqroht5i",
+                                                            "title": "Fill \"secret_sauce\" locator('#password')",
+                                                            "type": "step",
+                                                            "stepType": "pw:api",
+                                                            "duration": 187,
+                                                            "location": "tests/ui/cart.spec.js:9:16"
+                                                        },
+                                                        {
+                                                            "id": "p3tloq5dkr60yheyzqrz",
+                                                            "title": "Click locator('#login-button')",
+                                                            "type": "step",
+                                                            "stepType": "pw:api",
+                                                            "duration": 576,
+                                                            "location": "tests/ui/cart.spec.js:10:16"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "hnb4ae06nx5zb49vkzrf",
+                                            "title": "Click locator('button[data-test=\"add-to-cart-sauce-labs-backpack\"]')",
+                                            "type": "step",
+                                            "stepType": "pw:api",
+                                            "duration": 385,
+                                            "location": "tests/ui/cart.spec.js:20:16"
+                                        },
+                                        {
+                                            "id": "un4micktjj1bccjxu3pz",
+                                            "title": "Click locator('.shopping_cart_link')",
+                                            "type": "step",
+                                            "stepType": "pw:api",
+                                            "duration": 273,
+                                            "location": "tests/ui/cart.spec.js:21:16"
+                                        },
+                                        {
+                                            "id": "39vaio0uuskvpbzbi5cx",
+                                            "title": "Click locator('button[data-test=\"remove-sauce-labs-backpack\"]')",
+                                            "type": "step",
+                                            "stepType": "pw:api",
+                                            "duration": 174,
+                                            "location": "tests/ui/cart.spec.js:22:16"
+                                        },
+                                        {
+                                            "id": "6i0s5jty9138jedfdz2k",
+                                            "title": "Expect \"toHaveCount\"",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 22,
+                                            "location": "tests/ui/cart.spec.js:23:46"
+                                        },
+                                        {
+                                            "id": "5sp9qbf9fr1n5r4gvzrk",
+                                            "title": "After Hooks",
+                                            "type": "step",
+                                            "stepType": "hook",
+                                            "duration": 497,
+                                            "location": "",
+                                            "subs": [
+                                                {
+                                                    "id": "ln0txixnaktqlstrovrj",
+                                                    "title": "Fixture \"page\"",
+                                                    "type": "step",
+                                                    "stepType": "fixture",
+                                                    "duration": 0,
+                                                    "location": ""
+                                                },
+                                                {
+                                                    "id": "f483xh2bxo5yymsz0j8h",
+                                                    "title": "Fixture \"context\"",
+                                                    "type": "step",
+                                                    "stepType": "fixture",
+                                                    "duration": 446,
+                                                    "location": "",
+                                                    "subs": [
+                                                        {
+                                                            "id": "cs1e24nkiwsxhazvyu6x",
+                                                            "title": "Close context",
+                                                            "type": "step",
+                                                            "stepType": "pw:api",
+                                                            "duration": 213,
+                                                            "location": ""
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "location": "tests/ui/cart.spec.js:5:6"
+                        }
+                    ],
+                    "location": "tests/ui/cart.spec.js:0:0"
                 }
             ]
         }
@@ -1611,13 +2076,13 @@
     "summary": {
         "tests": {
             "name": "Tests",
-            "value": 13,
+            "value": 15,
             "nav": true,
             "id": "tests"
         },
         "passed": {
             "name": "Passed",
-            "value": 13,
+            "value": 15,
             "color": "green",
             "nav": true,
             "id": "passed",
@@ -1649,12 +2114,12 @@
         },
         "steps": {
             "name": "Steps",
-            "value": 107,
+            "value": 144,
             "id": "steps"
         },
         "suites": {
             "name": "Suites",
-            "value": 3,
+            "value": 4,
             "id": "suites"
         },
         "projects": {
@@ -1666,13 +2131,13 @@
         "files": {
             "name": "Files",
             "description": "Suite type is file",
-            "value": 3,
+            "value": 4,
             "id": "files"
         },
         "describes": {
             "name": "Describes",
             "description": "Suite type is describe",
-            "value": 2,
+            "value": 3,
             "id": "describes"
         },
         "shards": {
@@ -1707,6 +2172,6 @@
         "width": 360,
         "height": 150,
         "margin": 10,
-        "svg": "<svg viewBox=\"0 0 360 150\" width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><g class=\"mcr-pie-path-passed\"><path d=\"M75,75 L75,10 A65,65 0 1 1 75,140 A65,65 0 1 1 75,10 z\" fill=\"green\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-flaky\"><path d=\"\" fill=\"orange\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,-10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-skipped\"><path d=\"\" fill=\"gray\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,-10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-failed\"><path d=\"\" fill=\"#d00\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,-10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g transform=\"translate(160 10)\"><g class=\"mcr-pie-legend-passed\" transform=\"translate(0 0)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"green\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Passed</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">13</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">100.0%</text></g><g class=\"mcr-pie-legend-flaky\" transform=\"translate(0 32)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"orange\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Flaky</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g><g class=\"mcr-pie-legend-skipped\" transform=\"translate(0 64)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"gray\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Skipped</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g><g class=\"mcr-pie-legend-failed\" transform=\"translate(0 96)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"#d00\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Failed</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g></g></svg>"
+        "svg": "<svg viewBox=\"0 0 360 150\" width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><g class=\"mcr-pie-path-passed\"><path d=\"M75,75 L75,10 A65,65 0 1 1 75,140 A65,65 0 1 1 75,10 z\" fill=\"green\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-flaky\"><path d=\"\" fill=\"orange\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,-10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-skipped\"><path d=\"\" fill=\"gray\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,-10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-failed\"><path d=\"\" fill=\"#d00\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,-10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g transform=\"translate(160 10)\"><g class=\"mcr-pie-legend-passed\" transform=\"translate(0 0)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"green\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Passed</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">15</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">100.0%</text></g><g class=\"mcr-pie-legend-flaky\" transform=\"translate(0 32)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"orange\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Flaky</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g><g class=\"mcr-pie-legend-skipped\" transform=\"translate(0 64)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"gray\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Skipped</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g><g class=\"mcr-pie-legend-failed\" transform=\"translate(0 96)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"#d00\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Failed</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g></g></svg>"
     }
 }
