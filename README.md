@@ -1,4 +1,4 @@
-# Playwright UI + API Automation
+# Playwright UI and API Automation
 
 ## Overview
 This repository contains Playwright Test scripts that automate UI tests against **SauceDemo** and API tests against **Restful-Booker**.
